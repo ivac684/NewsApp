@@ -1,4 +1,4 @@
-# NewsApp + React + Material UI
+### NewsApp + React + Material UI
 
 In this app articles are fetched from News API. There are several functionalities such as
 - searching,
